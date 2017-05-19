@@ -5302,3 +5302,9 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::helol::hello
 ::abuot::about
 ::whatevre::whatever 
+::Millinium::Millennium
+::discernable::discernible
+::discernable::discernible
+::outisde::outside
+::apropriately::appropriately
+::guice::guide
