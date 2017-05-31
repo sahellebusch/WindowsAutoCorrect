@@ -5308,3 +5308,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::outisde::outside
 ::apropriately::appropriately
 ::guice::guide
+::coudln't::couldn't
+::unfortuantely::unfortunately
+::shouild::should
+::remidn::remind
