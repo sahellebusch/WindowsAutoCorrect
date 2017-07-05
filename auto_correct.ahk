@@ -5312,3 +5312,15 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::unfortuantely::unfortunately
 ::shouild::should
 ::remidn::remind
+::deprevation::deprivation
+::yeha::yeah
+::compliemnts::cimpliments
+::plcae::place
+::speficifally::specifically
+::probabyl::probably
+::beacsue::because
+::retireved::retrieved
+::deraliers::derailleurs
+::sandwhcih::sandwich
+::rgiht::right
+::rigth::right
