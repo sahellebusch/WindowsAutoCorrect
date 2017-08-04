@@ -5352,3 +5352,5 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::liek::like
 ::requriement::requirement
 ::requriement::requirement
+::fucntions::functions
+::soemthing::something
